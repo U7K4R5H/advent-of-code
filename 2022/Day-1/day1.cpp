@@ -6,7 +6,7 @@ using namespace std;
 //push https://github.com/U7K4R5H/cses.fi-problemset.git master
 
 int main() {
-	cout << "Game Over!!" << "\n";
+	cout << "Game Over!! Part 2" << "\n";
 	fstream myFile;
 	string line;
 	ll curr = 0;
